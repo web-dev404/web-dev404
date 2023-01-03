@@ -1,4 +1,4 @@
-![MasterHead]([https://i.ibb.co/q9HjCBf/YT-Banner-Template-01.jpg](https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gM8qCbGwQBKLOchoAS_RtunCyEgFqaol19EttLFHqF_MhiVchB7m7CTW6pf3Ejd1uWNtqnuXMfXafgGQ3kQOr7ebSsOcA=w1920-h683))
+![MasterHead](https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gM8qCbGwQBKLOchoAS_RtunCyEgFqaol19EttLFHqF_MhiVchB7m7CTW6pf3Ejd1uWNtqnuXMfXafgGQ3kQOr7ebSsOcA=w1920-h683)
 <h1 align="center">Hello 👋, I'm a Frontend React Developer</h1>
 <h3 align="center">I know what you need and can solve your problems!</h3>
 <br> <br>
