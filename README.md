@@ -3,29 +3,17 @@
 <h3 align="center">I know what you need and can solve your problems!</h3>
 <br> <br>
 <img align="right" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
-<h3>🛠 My technology stack:</h3>
-<div>
-	<span>React/Next.js</span>
-	<span>Typescript</span>
-	<span>Redux/Redux Toolkit</span>
-</div>
-<br>
-<div>
-	<span>TailwindCSS</span>
-	<span>Scss</span>
-</div>
-<br>
-<div>
-	<span>Webgl</span>
-	<span>Gsap</span>
-</div>
-<br>
-<div>
-	<span>HTML</span>
-	<span>Webpack</span>
-	<span>Gulp</span>
-	<span>Git</span>
-</div>
+<h3>My technology stack:</h3>
+
+🛠 Javascript, React, Nextjs, Typescript, Redux / Redux toolkit
+
+🛠 Unit & RTL Tests, e2e testing
+
+🛠 Websockets, GraphQL, Webgl, GSAP
+
+🛠 HTML, CSS, Scss, Tailwind
+
+🛠 Gulp, Webpack, Git, RestAPI, Axios
 
 <br><br>
 <h3>My works:</h3>
