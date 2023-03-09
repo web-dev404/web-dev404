@@ -1,6 +1,6 @@
 ![MasterHead](https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gM8qCbGwQBKLOchoAS_RtunCyEgFqaol19EttLFHqF_MhiVchB7m7CTW6pf3Ejd1uWNtqnuXMfXafgGQ3kQOr7ebSsOcA=w1920-h683)
 <h1 align="center">Hello 👋, I'm a Frontend React Developer</h1>
-<h3 align="center">I know what you need and can solve your problems!</h3>
+<h3 align="center">Projects need to be done so that there is no shame for them</h3>
 <br> <br>
 <img align="right" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 <h3>My technology stack:</h3>
