@@ -17,8 +17,6 @@
 
 <br><br>
 <h3>My works:</h3>
-<p>Website portfolio: https://imron-portfolio.netlify.app</p>
-<br>
 <p>The largest English language school in St. Petersburg: https://chicaga.ru/</p>
 <p>Cool website for a marketing agency: https://web-dev404.github.io/prof-sites</p>
 <p>Modern NFT Landing Page: https://imron-nft-landing.netlify.app/</p>
