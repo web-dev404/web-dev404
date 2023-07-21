@@ -1,4 +1,3 @@
-![home](https://github.com/web-dev404/web-dev404/assets/62200534/b186a13a-d508-44e4-b62c-e350696dc282)
 <h1 align="center">Hey there! 👋 I'm a frontend wizard, specializing in creating awesome user experiences.</h1>
 <h3 align="center">Gotta make sure projects are done right, no room for shame, ya know?</h3>
 <br> <br>
