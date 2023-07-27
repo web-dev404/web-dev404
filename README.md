@@ -15,5 +15,4 @@
 🛠 Gulp, Webpack, Git, RestAPI, Axios
 
 <br><br>
-<h3>Website Portfolio:</h3>
-<p>https://imrondev.vercel.app/</p>
+<h3>Website Portfolio: https://imrondev.vercel.app/</h3>
