@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm a frontend wizard, specializing in creating awesome user experiences.</h1>
-<h3 align="center">Gotta make sure projects are done right, no room for shame, ya know?</h3>
+<h2 align="center">Frontend Engineer with over 4 years of experience in building Web, Mobile and Desktop Apps. Played a crucial role in creating the DeOS Web Browser, Merlines travel metasearch platform, Admin Panel for the Biggest Real Estate company in Moscow, Games-System marketplace, etc.</h1>
 <br> <br>
 <img align="right" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 <h3>My technology stack:</h3>
